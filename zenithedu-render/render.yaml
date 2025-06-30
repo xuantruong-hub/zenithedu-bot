@@ -1,7 +1,0 @@
-
-services:
-  - type: worker
-    name: zenithedu-bot
-    env: python
-    buildCommand: ""
-    startCommand: bash start.sh
